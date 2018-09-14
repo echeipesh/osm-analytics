@@ -11,7 +11,7 @@ example of what our use might look like:
 
 
 ### Running locally
-```
+```sh
 docker-compose build
 
 # spin up a postgres instance and fill it with isle of man sample data
